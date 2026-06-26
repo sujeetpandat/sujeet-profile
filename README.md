@@ -12,5 +12,4 @@
 <br>
 
 <p align="center"><samp>
-<a href="https://asimthakur.github.io" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/Asim-
+
